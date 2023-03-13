@@ -1,5 +1,5 @@
 # Repositorio simple
-Ejemplo de cómo crear un repositorio desde la web
+Ejemplo de cómo crear un repositorio desde la webB
 segundo cambio
 tercer cambio  
 
